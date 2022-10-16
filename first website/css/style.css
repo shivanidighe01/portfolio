@@ -1,0 +1,29 @@
+        body
+        {
+            background-color:#ace2f7;
+            font-family: "Lucida Console", "Courier New", monospace;
+            
+        }
+        hr
+        {
+            background-color:#ace2f7;
+            border-color:#00ced1;
+            border-style:none;
+            border-top-style:dotted;
+            border-width: 5px;
+            width:10%;
+        }
+        img
+        {
+            height:200px;
+        }
+        h1
+        {
+            font-family: "Lucida Console", "Courier New", monospace;
+            color:#00ced1	
+        }
+        h2
+        {
+            font-family: "Lucida Console", "Courier New", monospace;
+            color:#00ced1	
+        }
