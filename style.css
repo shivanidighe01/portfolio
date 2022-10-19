@@ -1,7 +1,7 @@
-        body
+               body
         {
             background-color:#ace2f7;
-            font-family: "Lucida Console", "Courier New", monospace;
+            
             
         }
         hr
@@ -19,11 +19,11 @@
         }
         h1
         {
-            font-family: "Lucida Console", "Courier New", monospace;
-            color:#00ced1	
+            
+            color:black;	
         }
         h2
         {
-            font-family: "Lucida Console", "Courier New", monospace;
-            color:#00ced1	
+           
+            color:black;
         }
